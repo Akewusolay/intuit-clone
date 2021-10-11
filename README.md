@@ -1,4 +1,4 @@
-# Project Name
+#iNTUIT PROJECT
 
 > One paragraph statement about the project.
 
